@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Tic_Tac Toe</string>
+    <string name="heading">Welcome to Tic Tac Toe</string>
+    <string name="grid">Maingrid</string>
+    <string name="img8">img8</string>
+    <string name="img6">img6</string>
+    <string name="img4">img4</string>
+    <string name="img2">img2</string>
+    <string name="img3">img3</string>
+    <string name="img5">img5</string>
+    <string name="img7">img7</string>
+    <string name="img9">img9</string>
+    <string name="img1">img1</string>
+    <string name="status">X-Turn Tap To Play</string>
+    <string name="cover">Cover</string>
+</resources>
